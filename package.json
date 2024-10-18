@@ -1,0 +1,20 @@
+{
+  "name": "jsbackend",
+  "version": "1.0.0",
+  "description": "js backend development",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "js",
+    "node",
+    "backend"
+  ],
+  "author": "Misbah Urrahman Siddiqui",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
